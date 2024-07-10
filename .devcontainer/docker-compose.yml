@@ -1,0 +1,10 @@
+name: ever_sdk
+
+services:
+    ever_sdk-dev:
+        build:
+            context: ../
+            dockerfile: .devcontainer/Dockerfile
+        volumes:
+            - ../:/workspace
+        command: sleep infinity

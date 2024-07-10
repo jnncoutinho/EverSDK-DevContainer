@@ -1,0 +1,11 @@
+{
+    "dockerComposeFile": [
+        "docker-compose.yml"
+    ],
+    "workspaceFolder": "/workspace",
+    "service": "ever_sdk-dev",
+    "extensions": [
+        "ms-vscode.cpptools-extension-pack",
+        "ms-vscode.cmake-tools"
+    ],
+}
