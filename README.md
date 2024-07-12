@@ -21,8 +21,8 @@ This repo contains the settings for an Ubuntu-based Dev Container that sets up a
 8. Once the setup is done, you're good to go!
 
 All that's left is to follow the instructions in the [EverSDK repo](https://github.com/JohnnyonFlame/EverSDK). At the time of writing, this means:
-    - `cd EverSDK`
-    - `./build-sdk.sh`
+- `cd EverSDK`
+- `./build-sdk.sh`
 
 A sample project setup with CMake is included as an optional starting point. If you wish to use it be sure to change "MyProject" to something else in the folder and in the "project" line of the `CMakeLists.txt`.
 
